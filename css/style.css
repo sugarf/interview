@@ -1,0 +1,28 @@
+#container{
+	width: 100%;
+	min-height: 300px;
+	background-color: white;
+	padding: 10px;
+}
+#left{
+	width: 50%;
+    background-color: inherit;
+    float: left;
+}
+#right{
+	width:50%;
+	background-color: inherit;
+	float: right;
+	}
+#picker{
+	text-align: center;
+}
+p{
+	font-family:"times new roman",georgia;
+}
+#title{
+	font-weight: bold;
+}
+#date,#percent,#amount{
+float:right;
+}
